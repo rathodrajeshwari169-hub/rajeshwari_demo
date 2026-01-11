@@ -1,4 +1,4 @@
 # rajeshwari_demo
 this is my first git repository
 <br>
-author - rajeshwari
+author - rajeshwari rathod
